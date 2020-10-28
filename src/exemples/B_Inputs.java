@@ -23,7 +23,6 @@ public class B_Inputs extends SimpleApplication
     }
 
     protected Geometry player;
-    private boolean isRunning = true;
     Material mat ; 
 
     @Override
